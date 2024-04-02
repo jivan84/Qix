@@ -1799,6 +1799,10 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 * [《VDiscover》](http://www.vdiscover.org/)
 
+分步机器学习路线图
+
+* [《Machine Learening: Step-By-Step Roadmap》](https://www.scaler.com/blog/machine-learning-roadmap/)
+
 介绍:基于机器学习的漏洞检测工具VDiscover.
 
 * [《Minerva》](https://github.com/dmlc/minerva)
